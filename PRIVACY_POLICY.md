@@ -8,8 +8,6 @@ This is a simple app that allows users to receive alerts concerning issues relat
 
 ### Explanation of permissions requested in the app
 
-<br/>
-
 There is only one permission defined in the app's AndroidManifest.xml file. The permission is "android.permision.INTERNET". This permission is required so that the application can receive and send data through the internet, which is the app's main function. Besides that, depending on the Android OS version installed on the user's device the user may also be asked permission to allow the app to use notifications. This is also integral to the app's main funcionality. These are the only permissions required by this application.
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
