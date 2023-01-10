@@ -1,6 +1,6 @@
 ## Chamberlain Alerts: Privacy policy
 
-Welcome to the Chamberlain Alerts app, exclusively for Chamerlain Group employees!
+Welcome to the Chamberlain Alerts app, exclusively for Chamberlain Group employees!
 
 This is an in-house Flutter app developed by Miguel Martinez for Chamberlain Group. The source code is not available to the public since the app is strictly for use within the organization. The app is available in the Play Store to select users.
 
